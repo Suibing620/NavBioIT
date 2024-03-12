@@ -3,18 +3,18 @@
 - taxonomy: 作者站点
   icon: fas fa-medal
   links:
-    - title: 语雀
+    - title: Chatgpt Next Web
       logo: 语雀.webp
-      url: https://www.yuque.com/shenweiyan
-      description: 章鱼猫先生的语雀知识库。
-    - title: Knowledge-Garden
+      url: https://chatgpt.suibing.win
+      description: Chatgpt Next Web。
+    - title: PDF工具
       logo: garden.webp
-      url: https://github.com/shenweiyan/Knowledge-Garden/
-      description: All in GitHub Discussions.
-    - title: 知识花园
+      url: https://pdf.suibing.win
+      description: All PDF工具.
+    - title: IT Tools
       logo: octocat.png
-      url: https://weiyan.cc
-      description: 基于 MkDocs Material 个人站点。
+      url: https://tools.suibing.win
+      description: IT 工具百宝箱。
     - title: BioIT 爱好者
       logo: octocat.png
       url: https://www.bioitee.com/
